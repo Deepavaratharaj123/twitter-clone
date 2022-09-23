@@ -15,7 +15,7 @@
  
 
 
-[Live Deployment]  (https://deepa-twitter.herokuapp.com/)
+[Live Deployment]  (https://twitter-clone.deepavaratharaj.repl.co/)
 
 #screenshot
 ![Screenshot 2022-09-22 at 12 25 50 AM](https://user-images.githubusercontent.com/109765212/191587807-095eced3-a995-4058-97c2-06c5469cbb17.png)
